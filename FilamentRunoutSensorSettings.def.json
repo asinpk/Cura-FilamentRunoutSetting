@@ -1,0 +1,12 @@
+{
+    "material_frs_enable":
+    {
+        "label": "Enable Filament Runout Sensor",
+        "description": "Enables filament runout sensor in the g-code. Valid values are: 0 - disabled, 1 - enabled.",
+        "type": "int",
+        "default_value": 0,
+        "settable_per_mesh": false,
+        "settable_per_extruder": false,
+        "settable_per_meshgroup": false
+    }
+}
