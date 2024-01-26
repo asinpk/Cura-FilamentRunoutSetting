@@ -4,7 +4,9 @@
         "label": "Enable Filament Runout Sensor",
         "description": "Enables filament runout sensor in the g-code. Valid values are: 0 - disabled, 1 - enabled.",
         "type": "int",
-        "default_value": 0,
+        "default_value": 1,
+        "minimum_value": "0",
+        "maximum_value": "1",
         "settable_per_mesh": false,
         "settable_per_extruder": false,
         "settable_per_meshgroup": false
