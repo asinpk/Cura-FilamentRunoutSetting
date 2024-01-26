@@ -1,4 +1,4 @@
-# Filament runout sensor Settings
+# Filament runout sensor settings
 
 This simple plugin adds ability to enable/disable filament runout sensor. Marlin only.
 
